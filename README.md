@@ -6,7 +6,7 @@
 
 🏠 - Do interior do RJ - Brasil.
 
-📖 - Em constante evolução com framework React e React-Native.
+📖 - Em constante evolução com framework
 
 📚 - 2022 Objetivos: Criar projetos e migrar de área: Suporte TI >> DEV-front
 
