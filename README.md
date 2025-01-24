@@ -2,7 +2,7 @@
  
 ## Me chamo Maicon Campbell
 
-💻 - Futuro DEV Front-end.
+💻 - DEV Front-end.
 
 🏠 - Do interior do RJ - Brasil.
 
