@@ -2,13 +2,13 @@
  
 ## Me chamo Maicon Campbell
 
-💻 - DEV Front-end.
+💻 - Web Developer Full-Stack.
 
 🏠 - Do interior do RJ - Brasil.
 
 📖 - Em constante evolução com framework
 
-📚 - 2022 Objetivos: Criar projetos e migrar de área: Suporte TI >> DEV-front
+📚 - Migrar de área: Suporte TI >> DEV
 
 ## Vamos se conectar e trocar experiência
 
