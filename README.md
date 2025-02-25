@@ -6,7 +6,7 @@
 
 🏠 - Do interior do RJ - Brasil.
 
-📖 - Em constante evolução com framework
+📖 - Em constante evolução
 
 📚 - Migrar de área: Suporte TI >> DEV
 
